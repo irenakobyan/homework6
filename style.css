@@ -1,0 +1,16 @@
+td {
+	border: 2px solid red;
+	height: 200px;
+	width: 200px;
+	cursor: pointer;
+}
+
+.putin {
+	background-image: "http://pngimg.com/uploads/vladimir_putin/vladimir_putin_PNG3.png";
+	background-size: 200px
+}
+
+.obama {
+     background-image: "http://vignette4.wikia.nocookie.net/thefutureofeuropes/images/a/ae/Obama-head.png/revision/latest?cb=20140629212721";
+    background-size: 200px
+}
